@@ -1,0 +1,1 @@
+A script that uses the CLI of AWS cloud to create an Ubuntu VM and setup a LAMP server.
